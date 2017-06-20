@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1497956996 source:/home/vysakhav/Mywork/Threading_Pthread/main.cpp
+	"Thread.h"
+	"MyThread.h"
+
+1497959673 /home/vysakhav/Mywork/Threading_Pthread/include/Thread.h
+	<pthread.h>
+	<iostream>
+
+1497959461 /home/vysakhav/Mywork/Threading_Pthread/include/MyThread.h
+	"Thread.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1497959366 source:/home/vysakhav/Mywork/Threading_Pthread/src/MyThread.cpp
+	"MyThread.h"
+
+1497959487 source:/home/vysakhav/Mywork/Threading_Pthread/src/Thread.cpp
+	"Thread.h"
+
